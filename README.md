@@ -42,16 +42,11 @@
 ------------
 
 ## 구현 화면
-![gual_screen](https://user-images.githubusercontent.com/40011759/138392437-0ab9592e-eb22-4104-99ac-8019450e81f1.png)  
-<br>https://youtu.be/6steRsAQyoA
 
-------------
-
-## API
-![gual_api](https://user-images.githubusercontent.com/40011759/138392485-1dbcc3d0-4c81-48ff-81ad-1b88f810792b.png)
 
 ------------
 
 ## DB
-![gual_erd](https://user-images.githubusercontent.com/40011759/138392473-68723830-6ff8-4c3e-a36d-a120b4dd66a6.png)
+![image](https://user-images.githubusercontent.com/40011759/139841786-c3bf7662-7042-4471-887d-543b1aa5b9dc.png)
+
 
