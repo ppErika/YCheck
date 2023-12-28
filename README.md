@@ -50,4 +50,9 @@
 ## DB
 ![image](https://user-images.githubusercontent.com/40011759/139841786-c3bf7662-7042-4471-887d-543b1aa5b9dc.png)
 
+------------
+
+## Etc
+![image](https://github.com/ppErika/YCheck/assets/40011759/bbe51625-2437-44b4-9bcd-410bc846c833)
+![image](https://github.com/ppErika/YCheck/assets/40011759/30d0ba9c-be37-44f3-8eda-d8b33f32c1bc)
 
